@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         WPlace Coords
+// @version      1
 // @description  Show correct pixel + region coords from backend.wplace.live
 // @match        https://wplace.live/*
 // ==/UserScript==
@@ -58,3 +59,4 @@
     };
 
 })();
+
